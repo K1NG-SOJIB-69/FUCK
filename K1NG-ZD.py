@@ -1155,7 +1155,7 @@ def SIALZADA():
 	else:
 		print('[•] CHOOSE CORRECT OPTION')
 		time.sleep(2)
-		SIAL()
+		SIALZADA
 		
 def menu():
 	os.system('clear')
